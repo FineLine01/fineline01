@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristina Baiu, my nickname is FineLine01.</h1>
 <h3 align="center">A passionate learner of HMTL, CSS, JavaScript, and C#. I am looking forward to find my dream-team as a Junior Developer ^-^.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fineline01&label=Profile%20views&color=0e75b6&style=flat" alt="fineline01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fineline01&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="fineline01" /> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, C#.**
 
